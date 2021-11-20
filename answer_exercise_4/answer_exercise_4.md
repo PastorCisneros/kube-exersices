@@ -1,7 +1,7 @@
 Despliega una nueva versión de tu nuevo servicio mediante la técnica 
 “recreate”
- Imagen1
+ ![alt text](images/Imagen1.png)
 
 
 Realiza un rollback a la versión generada previamente
-Imagen2
+![alt text](images/Imagen2.png)

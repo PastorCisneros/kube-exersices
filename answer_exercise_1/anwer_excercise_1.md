@@ -10,7 +10,7 @@
 
 ```kubectl describe pod nginx-server```
 
-Imagen2
+![alt text](images/Imagen2.png)
 
  ¿Qué comando utilizarías para entrar dentro del pod?
 
@@ -21,13 +21,13 @@ debes llevar a cabo?
 
 ```kubectl port-forward pod/nginx-server 80->84:80```
 
-Imagen3
+![alt text](images/Imagen4.png)
 
 Indica la calidad de servicio (QoS) establecida en el pod que acabas de 
 crear. ¿Qué lo has mirado?
 
 ```kubectl kubectl describe pod nginx-server ```
 
-Imagen4
+![alt text](images/Imagen4.png)
 
 Que la calidad del  (QoS) servicio esta Guarenteed

@@ -1,0 +1,1 @@
+No pude realizar la ejecucion de este ultimo ejercicio hice los scripts pero no me consegui lo esperado.
